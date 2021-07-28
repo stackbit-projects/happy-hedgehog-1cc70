@@ -11,7 +11,7 @@ sections:
       - label: Subscribe to Podcast
         url: /thank-you
         style: primary
-    image: /images/D9C5B4B8-898E-4064-95E3-E7D65E60C78C.jpg
+    image: /images/cool-squid.JPG
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
