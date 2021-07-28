@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to Miley M3dia Productions
-    subtitle: Optional hero section subtitle
+    subtitle: Music Industry
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
       Hosted by Miles Tone.
